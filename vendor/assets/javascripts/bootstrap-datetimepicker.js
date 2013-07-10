@@ -1208,9 +1208,9 @@
     headTemplate:
       '<thead>' +
         '<tr>' +
-          '<th class="prev">&lsaquo;</th>' +
+          '<th class="prev"></th>' +
           '<th colspan="5" class="switch"></th>' +
-          '<th class="next">&rsaquo;</th>' +
+          '<th class="next"></th>' +
         '</tr>' +
       '</thead>',
     contTemplate: '<tbody><tr><td colspan="7"></td></tr></tbody>'
